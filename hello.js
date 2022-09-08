@@ -1,0 +1,1 @@
+console.log("Namasta to the world of node js");
